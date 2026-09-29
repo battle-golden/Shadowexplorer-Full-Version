@@ -236,4 +236,4 @@ This repository serves as the official landing page for ShadowExplorer. The soft
 **Get the most recent version of ShadowExplorer today!**
 
 ---
-**Last updated:** 2026-09-29 12:34:35 UTC
+**Last updated:** 2026-09-29 18:32:39 UTC
